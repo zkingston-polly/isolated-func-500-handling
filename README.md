@@ -1,8 +1,8 @@
 This project demonstrates an apparent regression with azure func host (or maybe the zure function core tools).
 
 Steps to produce the error:
-Install Azure Function Core Tools version 4.0.5611
-Install Azure Function Core Tools version 4.0.5801
+Install Azure Function Core Tools version 4.0.5611 (function runtime 4.31.1.22191)
+Install Azure Function Core Tools version 4.0.5801 (function runtime 4.34.1.22669)
 
 Run the project with tools version 4.0.5611
 ```
