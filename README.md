@@ -1,4 +1,4 @@
-This project demonstrates an apparent regression with azure func host (or maybe the zure function core tools).
+This project demonstrates an apparent regression with azure func host (or maybe the azure function core tools).
 
 Steps to produce the error:
 - Install Azure Function Core Tools version 4.0.5611 (function runtime 4.31.1.22191)
